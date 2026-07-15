@@ -32,6 +32,7 @@ Install these **before** you start. Verify each one from a fresh terminal.
 |---|---|---|---|
 | **Python** | 3.11.x | `python --version` | https://www.python.org/downloads/ (tick "Add Python to PATH") |
 | **Node.js + npm** | Node 20 LTS | `node --version` `npm --version` | https://nodejs.org/ |
+| **Angular CLI** | 18.x | `ng version` | `npm install -g @angular/cli@18` |
 | **Git** *(optional)* | any | `git --version` | https://git-scm.com/download/win |
 | **Anthropic API key** | — | — | https://console.anthropic.com/ → *API Keys* → *Create Key* |
 
