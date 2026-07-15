@@ -1,5 +1,9 @@
 # RegView — Strict RAG Assistant with Pluggable Ingestion
 
+## Presentation & Demo
+- [PPT Presentation](Hackathon-Artifacts/Hackcelerate-Mavericks-Presentation.pptx)
+- [Demo Video](Hackathon-Artifacts/RegViewDemo.mp4)
+
 Ask questions in natural language against your own private knowledge base. RegView
 retrieves the most relevant chunks from a local vector store, then asks Claude to
 write a short, cited answer — and **refuses** to answer if the knowledge base
